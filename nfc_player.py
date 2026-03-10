@@ -1,22 +1,33 @@
 from py532lib.i2c import *
 from py532lib.frame import *
 from py532lib.constants import *
-import subprocess
 import time
+import json
 import controls
 
 # Initialize PN532
 pn532 = Pn532_i2c()
 pn532.SAMconfigure()
 
-# Map NFC UID (hex string) to Spotify URI
-card_map = {
-    "4B010100040804D1A82107": "spotify:track:6JIC3hbC28JZKZ8AlAqX8h",
-    "04123456": "spotify:track:3n3Ppam7vgaVa1iaRUc9Lp",
-    # Add more cards here
-}
+def load_card_map():
+    """Load card mappings from JSON file"""
+    try:
+        with open('cards.json', 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+
+def save_card_map(card_map):
+    """Save card mappings to JSON file"""
+    with open('cards.json', 'w') as f:
+        json.dump(card_map, f, indent=2)
+
+# Load the card map
+card_map = load_card_map()
 
 last_uid = None
+last_action_time = None
+COOLDOWN_TIME = 5  # seconds between play/toggle actions
 
 print("Waiting for NFC tags...")
 
@@ -27,16 +38,36 @@ while True:
         uid_str = "".join("{:02X}".format(x) for x in uid_bytes)
 
         if uid_str != last_uid:
-            print("Tag detected:", uid_str)
+            # New card detected
             if uid_str in card_map:
-                spotify_uri = card_map[uid_str]
-                subprocess.run([
-                    "curl", "-X", "POST",
-                    "http://localhost:3000/api/v1/replaceAndPlay",
-                    "-H", "Content-Type: application/json",
-                    "-d", f'{{"uri":"{spotify_uri}"}}'
-                ])
+                card_info = card_map[uid_str]
+                spotify_uri = card_info["uri"]
+                alias = card_info.get("alias", "Unknown")
+                print(f"\n▶ Playing: {alias}\n")
+                controls.play(uri=spotify_uri)
+                last_action_time = time.time()
+            else:
+                # Unknown card - ask user to add it
+                print(f"Unknown card: {uid_str}")
+                uri = input("Enter Spotify URI (or press Enter to skip): ").strip()
+                if uri:
+                    alias = input("Enter alias for this card (optional, press Enter to skip): ").strip()
+                    if not alias:
+                        alias = "Unknown Track"
+                    # Add to card map and save
+                    card_map[uid_str] = {"uri": uri, "alias": alias}
+                    save_card_map(card_map)
+                    print(f"Card saved as: {alias}")
+                    # Play the song
+                    controls.play(uri=uri)
+                    last_action_time = time.time()
             last_uid = uid_str
+        else:
+            # Same card detected - check if cooldown has passed
+            if last_action_time and (time.time() - last_action_time) >= COOLDOWN_TIME:
+                print("Toggling playback")
+                controls.toggle()
+                last_action_time = time.time()
     else:
         last_uid = None
 
