@@ -35,3 +35,7 @@ curl -X GET http://localhost:3000/api/v1/commands/?cmd=pause
 curl -X GET http://localhost:3000/api/v1/commands/?cmd=play
 ### Volume down
 curl -X GET http://localhost:3000/api/v1/commands/?cmd=volume_down
+
+## SSH
+
+ssh volumio@juke
