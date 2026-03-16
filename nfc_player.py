@@ -12,14 +12,14 @@ pn532.SAMconfigure()
 def load_card_map():
     """Load card mappings from JSON file"""
     try:
-        with open('cards.json', 'r') as f:
+        with open('/home/volumio/nfc/cards.json', 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         return {}
 
 def save_card_map(card_map):
     """Save card mappings to JSON file"""
-    with open('cards.json', 'w') as f:
+    with open('/home/volumio/nfc/cards.json', 'w') as f:
         json.dump(card_map, f, indent=2)
 
 # Load the card map
@@ -27,7 +27,11 @@ card_map = load_card_map()
 
 last_uid = None
 last_action_time = None
-COOLDOWN_TIME = 5  # seconds between play/toggle actions
+COOLDOWN_TIME = 2  # seconds between play/toggle actions
+
+# Wait for Volumio to be ready
+print("Starting up - waiting for Volumio to be ready...")
+controls.wait_for_ready()
 
 print("Waiting for NFC tags...")
 
@@ -36,14 +40,14 @@ while True:
     if frame:
         uid_bytes = frame.get_data()  # Correct extraction
         uid_str = "".join("{:02X}".format(x) for x in uid_bytes)
-
+        print(f"Card detected: {uid_str}")
         if uid_str != last_uid:
             # New card detected
             if uid_str in card_map:
                 card_info = card_map[uid_str]
                 spotify_uri = card_info["uri"]
                 alias = card_info.get("alias", "Unknown")
-                print(f"\n▶ Playing: {alias}\n")
+                print(f"\n ^v  Playing: {alias}\n")
                 controls.play(uri=spotify_uri)
                 last_action_time = time.time()
             else:
