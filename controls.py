@@ -77,3 +77,83 @@ def browse(host:str=HOST, uri:str="music-library/INTERNAL"):
     """Browse a URI (e.g. local library)"""
     result = subprocess.run(["curl", "-X", "GET", f"http://{host}:3000/api/v1/browse?uri={uri}"], capture_output=True, text=True)
     return result.stdout
+def load_aventura_map():
+    """Load adventure paths from JSON file"""
+    try:
+        with open('/home/volumio/nfc/aventura.json', 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print("ERROR: aventura.json not found")
+        return None
+def aventura(starting_card: str, pn532_reader, card_map: dict):
+    """
+    Play choose-your-own-adventure game.
+    
+    Args:
+        starting_card: Starting card identifier ('A', 'B', or 'C')
+        pn532_reader: PN532 NFC reader object
+        card_map: Dictionary mapping special card UIDs to A/B/C
+    
+    Returns:
+        True if adventure completed, False if interrupted
+    """
+    aventura_data = load_aventura_map()
+    if not aventura_data:
+        return False
+    
+    paths = aventura_data.get("paths", {})
+    current_path = starting_card
+    
+    print(f"\n{'='*50}")
+    print(f"Adventure started with card {starting_card}")
+    print(f"{'='*50}\n")
+    
+    while True:
+        # Check if current path exists
+        if current_path not in paths:
+            print(f"ERROR: Path '{current_path}' not found in aventura.json")
+            return False
+        
+        path_data = paths[current_path]
+        audio_uri = path_data.get("audio", "")
+        is_end = path_data.get("end", False)
+        
+        # Play the audio for this path
+        print(f"Playing: {audio_uri}")
+        play(uri=audio_uri)
+        
+        # If this is the end, exit adventure
+        if is_end:
+            print(f"\nAdventure ended at path: {current_path}")
+            print(f"{'='*50}\n")
+            return True
+        
+        # Wait for user to choose next option
+        print(f"\nWaiting for choice (A/B/C)... (5 seconds)")
+        start_time = time.time()
+        choice = None
+        
+        while time.time() - start_time < 5:
+            frame = pn532_reader.read_mifare()
+            if frame:
+                uid_bytes = frame.get_data()
+                uid_str = "".join("{:02X}".format(x) for x in uid_bytes)
+                
+                # Check if this is a special card (A/B/C or STOP)
+                card_choice = card_map.get(uid_str)
+                
+                # Check if STOP card was presented
+                if card_choice == "STOP":
+                    print(f"\nStop card detected - exiting adventure")
+                    return False
+                
+                if card_choice in ['A', 'B', 'C']:
+                    print(f"Choice selected: {card_choice}")
+                    current_path += card_choice
+                    choice = card_choice
+                    break
+            time.sleep(0.1)
+        
+        if choice is None:
+            print(f"No choice detected - adventure timed out")
+            return False

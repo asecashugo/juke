@@ -1,0 +1,54 @@
+{
+  "special_cards": {
+    "CARD_A_UID": "A",
+    "CARD_B_UID": "B",
+    "CARD_C_UID": "C",
+    "CARD_STOP_UID": "STOP"
+  },
+  "paths": {
+    "A": {
+      "audio": "music-library/INTERNAL/aventura_A.mp3",
+      "end": false
+    },
+    "AB": {
+      "audio": "music-library/INTERNAL/aventura_AB.mp3",
+      "end": false
+    },
+    "ABC": {
+      "audio": "music-library/INTERNAL/aventura_ABC.mp3",
+      "end": true
+    },
+    "AC": {
+      "audio": "music-library/INTERNAL/aventura_AC.mp3",
+      "end": true
+    },
+    "B": {
+      "audio": "music-library/INTERNAL/aventura_B.mp3",
+      "end": false
+    },
+    "BA": {
+      "audio": "music-library/INTERNAL/aventura_BA.mp3",
+      "end": false
+    },
+    "BAA": {
+      "audio": "music-library/INTERNAL/aventura_BAA.mp3",
+      "end": true
+    },
+    "BBC": {
+      "audio": "music-library/INTERNAL/aventura_BBC.mp3",
+      "end": true
+    },
+    "C": {
+      "audio": "music-library/INTERNAL/aventura_C.mp3",
+      "end": false
+    },
+    "CAB": {
+      "audio": "music-library/INTERNAL/aventura_CAB.mp3",
+      "end": true
+    },
+    "ABBACCA": {
+      "audio": "music-library/INTERNAL/aventura_ABBACCA.mp3",
+      "end": true
+    }
+  }
+}

@@ -22,8 +22,20 @@ def save_card_map(card_map):
     with open('/home/volumio/nfc/cards.json', 'w') as f:
         json.dump(card_map, f, indent=2)
 
-# Load the card map
+def load_aventura_map():
+    """Load adventure special cards from JSON file"""
+    try:
+        with open('/home/volumio/nfc/aventura.json', 'r') as f:
+            data = json.load(f)
+            # Return inverted mapping: UID -> letter (A/B/C)
+            special_cards = data.get("special_cards", {})
+            return {uid: letter for uid, letter in special_cards.items()}
+    except FileNotFoundError:
+        return {}
+
+# Load the card maps
 card_map = load_card_map()
+aventura_special_cards = load_aventura_map()
 
 last_uid = None
 last_action_time = None
@@ -41,6 +53,24 @@ while True:
         uid_bytes = frame.get_data()  # Correct extraction
         uid_str = "".join("{:02X}".format(x) for x in uid_bytes)
         print(f"Card detected: {uid_str}")
+        
+        # Check if this is a STOP card (highest priority)
+        if uid_str in aventura_special_cards and aventura_special_cards[uid_str] == "STOP":
+            print("\n STOP card detected - stopping playback")
+            controls.stop()
+            last_uid = None
+            last_action_time = None
+            continue
+        
+        # Check if this is an adventure card (A, B, or C)
+        if uid_str in aventura_special_cards:
+            adventure_letter = aventura_special_cards[uid_str]
+            print(f"\n Adventure card detected: {adventure_letter}")
+            controls.aventura(adventure_letter, pn532, aventura_special_cards)
+            last_uid = None
+            last_action_time = None
+            continue
+        
         if uid_str != last_uid:
             # New card detected
             if uid_str in card_map:
