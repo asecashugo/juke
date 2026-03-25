@@ -1,0 +1,1074 @@
+[
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/01_capitulo uno.wav",
+"title":"01_capitulo uno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_1.wav",
+"title":"hercules_1",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/02_capitulo dos.wav",
+"title":"02_capitulo dos.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_2.wav",
+"title":"hercules_2",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/03_capitulo tres.wav",
+"title":"03_capitulo tres.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_3.wav",
+"title":"hercules_3",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/04_capitulo cuatro.wav",
+"title":"04_capitulo cuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_4.wav",
+"title":"hercules_4",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/05_capitulo cinco.wav",
+"title":"05_capitulo cinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_5.wav",
+"title":"hercules_5",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/06_capitulo seis.wav",
+"title":"06_capitulo seis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_6.wav",
+"title":"hercules_6",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/07_capitulo siete.wav",
+"title":"07_capitulo siete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_7.wav",
+"title":"hercules_7",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/08_capitulo ocho.wav",
+"title":"08_capitulo ocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_8.wav",
+"title":"hercules_8",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/09_capitulo nueve.wav",
+"title":"09_capitulo nueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_9.wav",
+"title":"hercules_9",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/10_capitulo diez.wav",
+"title":"10_capitulo diez.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_10.wav",
+"title":"hercules_10",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/11_capitulo once.wav",
+"title":"11_capitulo once.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_11.wav",
+"title":"hercules_11",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/12_capitulo doce.wav",
+"title":"12_capitulo doce.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_12.wav",
+"title":"hercules_12",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/13_capitulo trece.wav",
+"title":"13_capitulo trece.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_13.wav",
+"title":"hercules_13",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/14_capitulo catorce.wav",
+"title":"14_capitulo catorce.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_14.wav",
+"title":"hercules_14",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/15_capitulo quince.wav",
+"title":"15_capitulo quince.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_15.wav",
+"title":"hercules_15",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/16_capitulo dieciséis.wav",
+"title":"16_capitulo dieciséis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_16.wav",
+"title":"hercules_16",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/17_capitulo diecisiete.wav",
+"title":"17_capitulo diecisiete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_17.wav",
+"title":"hercules_17",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/18_capitulo dieciocho.wav",
+"title":"18_capitulo dieciocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_18.wav",
+"title":"hercules_18",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/19_capitulo diecinueve.wav",
+"title":"19_capitulo diecinueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_19.wav",
+"title":"hercules_19",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/20_capitulo veinte.wav",
+"title":"20_capitulo veinte.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_20.wav",
+"title":"hercules_20",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/21_capitulo veintiuno.wav",
+"title":"21_capitulo veintiuno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_21.wav",
+"title":"hercules_21",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/22_capitulo veintidós.wav",
+"title":"22_capitulo veintidós.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_22.wav",
+"title":"hercules_22",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/23_capitulo veintitrés.wav",
+"title":"23_capitulo veintitrés.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_23.wav",
+"title":"hercules_23",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/24_capitulo veinticuatro.wav",
+"title":"24_capitulo veinticuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_24.wav",
+"title":"hercules_24",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/25_capitulo veinticinco.wav",
+"title":"25_capitulo veinticinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_25.wav",
+"title":"hercules_25",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/26_capitulo veintiséis.wav",
+"title":"26_capitulo veintiséis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_26.wav",
+"title":"hercules_26",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/27_capitulo veintisiete.wav",
+"title":"27_capitulo veintisiete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_27.wav",
+"title":"hercules_27",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/28_capitulo veintiocho.wav",
+"title":"28_capitulo veintiocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_28.wav",
+"title":"hercules_28",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/29_capitulo veintinueve.wav",
+"title":"29_capitulo veintinueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_29.wav",
+"title":"hercules_29",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/30_capitulo treinta.wav",
+"title":"30_capitulo treinta.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_30.wav",
+"title":"hercules_30",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/31_capitulo treinta y uno.wav",
+"title":"31_capitulo treinta y uno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_31.wav",
+"title":"hercules_31",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/32_capitulo treinta y dos.wav",
+"title":"32_capitulo treinta y dos.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_32.wav",
+"title":"hercules_32",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/33_capitulo treinta y tres.wav",
+"title":"33_capitulo treinta y tres.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_33.wav",
+"title":"hercules_33",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/34_capitulo treinta y cuatro.wav",
+"title":"34_capitulo treinta y cuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_34.wav",
+"title":"hercules_34",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/35_capitulo treinta y cinco.wav",
+"title":"35_capitulo treinta y cinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_35.wav",
+"title":"hercules_35",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/36_capitulo treinta y seis.wav",
+"title":"36_capitulo treinta y seis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_36.wav",
+"title":"hercules_36",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/37_capitulo treinta y siete.wav",
+"title":"37_capitulo treinta y siete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_37.wav",
+"title":"hercules_37",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/38_capitulo treinta y ocho.wav",
+"title":"38_capitulo treinta y ocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_38.wav",
+"title":"hercules_38",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/39_capitulo treinta y nueve.wav",
+"title":"39_capitulo treinta y nueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_39.wav",
+"title":"hercules_39",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/40_capitulo cuarenta.wav",
+"title":"40_capitulo cuarenta.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_40.wav",
+"title":"hercules_40",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/41_capitulo cuarenta y uno.wav",
+"title":"41_capitulo cuarenta y uno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_41.wav",
+"title":"hercules_41",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/42_capitulo cuarenta y dos.wav",
+"title":"42_capitulo cuarenta y dos.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_42.wav",
+"title":"hercules_42",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/43_capitulo cuarenta y tres.wav",
+"title":"43_capitulo cuarenta y tres.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_43.wav",
+"title":"hercules_43",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/44_capitulo cuarenta y cuatro.wav",
+"title":"44_capitulo cuarenta y cuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_44.wav",
+"title":"hercules_44",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/45_capitulo cuarenta y cinco.wav",
+"title":"45_capitulo cuarenta y cinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_45.wav",
+"title":"hercules_45",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/46_capitulo cuarenta y seis.wav",
+"title":"46_capitulo cuarenta y seis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_46.wav",
+"title":"hercules_46",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/47_capitulo cuarenta y siete.wav",
+"title":"47_capitulo cuarenta y siete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_47.wav",
+"title":"hercules_47",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/48_capitulo cuarenta y ocho.wav",
+"title":"48_capitulo cuarenta y ocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_48.wav",
+"title":"hercules_48",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/49_capitulo cuarenta y nueve.wav",
+"title":"49_capitulo cuarenta y nueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_49.wav",
+"title":"hercules_49",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/50_capitulo cincuenta.wav",
+"title":"50_capitulo cincuenta.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_50.wav",
+"title":"hercules_50",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/51_capitulo cincuenta y uno.wav",
+"title":"51_capitulo cincuenta y uno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_51.wav",
+"title":"hercules_51",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/52_capitulo cincuenta y dos.wav",
+"title":"52_capitulo cincuenta y dos.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_52.wav",
+"title":"hercules_52",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/53_capitulo cincuenta y tres.wav",
+"title":"53_capitulo cincuenta y tres.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_53.wav",
+"title":"hercules_53",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/54_capitulo cincuenta y cuatro.wav",
+"title":"54_capitulo cincuenta y cuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_54.wav",
+"title":"hercules_54",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/55_capitulo cincuenta y cinco.wav",
+"title":"55_capitulo cincuenta y cinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_55.wav",
+"title":"hercules_55",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/56_capitulo cincuenta y seis.wav",
+"title":"56_capitulo cincuenta y seis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_56.wav",
+"title":"hercules_56",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/57_capitulo cincuenta y siete.wav",
+"title":"57_capitulo cincuenta y siete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_57.wav",
+"title":"hercules_57",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/58_capitulo cincuenta y ocho.wav",
+"title":"58_capitulo cincuenta y ocho.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_58.wav",
+"title":"hercules_58",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/59_capitulo cincuenta y nueve.wav",
+"title":"59_capitulo cincuenta y nueve.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_59.wav",
+"title":"hercules_59",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/60_capitulo sesenta.wav",
+"title":"60_capitulo sesenta.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_60.wav",
+"title":"hercules_60",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/61_capitulo sesenta y uno.wav",
+"title":"61_capitulo sesenta y uno.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_61.wav",
+"title":"hercules_61",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/62_capitulo sesenta y dos.wav",
+"title":"62_capitulo sesenta y dos.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_62.wav",
+"title":"hercules_62",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/63_capitulo sesenta y tres.wav",
+"title":"63_capitulo sesenta y tres.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_63.wav",
+"title":"hercules_63",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/64_capitulo sesenta y cuatro.wav",
+"title":"64_capitulo sesenta y cuatro.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_64.wav",
+"title":"hercules_64",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/65_capitulo sesenta y cinco.wav",
+"title":"65_capitulo sesenta y cinco.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_65.wav",
+"title":"hercules_65",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/66_capitulo sesenta y seis.wav",
+"title":"66_capitulo sesenta y seis.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_66.wav",
+"title":"hercules_66",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/numeros_capitulos/67_capitulo sesenta y siete.wav",
+"title":"67_capitulo sesenta y siete.wav",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules%2Fnumeros_capitulos&icon=fa-tags&metadata=false"
+},
+{
+"service":"mpd",
+"uri":"mnt/INTERNAL/hercules/hercules_67.wav",
+"title":"hercules_67",
+"artist":"",
+"album":"",
+"albumart":"/albumart?cacheid=205&web=//extralarge&path=%2Fmnt%2FINTERNAL%2Fhercules&icon=fa-tags&metadata=false"
+}
+]
