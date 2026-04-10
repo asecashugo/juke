@@ -10,8 +10,13 @@ def get_state(host:str=HOST):
     result = subprocess.run(["curl", f"http://{host}:3000/api/v1/getState"], capture_output=True, text=True)
     return result.stdout
 def play(host:str=HOST,uri:str=URI):
-    result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"uri":"{uri}"}}'], capture_output=True, text=True)
-    return result.stdout
+    # if uri contains "playlist_", use playplaylist endpoint instead
+    if "playlist_" in uri:
+        return play_playlist(uri, host)
+    else:
+        result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"uri":"{uri}"}}'], capture_output=True, text=True)
+        return result.stdout
+
 def play_playlist(list_name:str,host:str=HOST):
     result = subprocess.run(["curl", "-X", "GET", f"http://{host}:3000/api/v1/commands/?cmd=playplaylist&name={list_name}"], capture_output=True, text=True)
     return result.stdout
