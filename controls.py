@@ -13,6 +13,19 @@ def play(host:str=HOST,uri:str=URI):
     # if uri contains "playlist_", use playplaylist endpoint instead
     if "playlist_" in uri:
         return play_playlist(uri, host)
+    # if radiotime in uri, use web radio endpoint instead
+    elif "radiotime" in uri:
+        # Example: I started Radio Gong by
+
+        # POST http://127.0.0.1:3000/api/v1/replaceAndPlay
+        #     {
+        #                 "service": "webradio",
+        #                 "type": "webradio",
+        #                 "title": "Gong 97.1",
+        #                 "uri": "http://opml.radiotime.com/Tune.ashx?id=s78373"
+        #     }
+        result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"service":"webradio","type":"webradio","title":"Radio Stream","uri":"{uri}"}}'], capture_output=True, text=True)
+        return result.stdout
     else:
         result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"uri":"{uri}"}}'], capture_output=True, text=True)
         return result.stdout
