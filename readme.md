@@ -39,3 +39,8 @@ curl -X GET http://localhost:3000/api/v1/commands/?cmd=volume_down
 ## SSH
 
 ssh volumio@juke
+sudo systemctl stop nfc_player.service
+python3 ~/nfc/nfc_player.py
+ --> Add card using console interface
+terminate with Ctrl+C
+sudo systemctl start nfc_player.service
