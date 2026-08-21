@@ -1,14 +1,158 @@
 {
-  "4B010100040804D1A82107": {
-    "uri": "spotify:track:6JIC3hbC28JZKZ8AlAqX8h",
-    "alias": "Song 1"
+  "15": {
+    "uri": "toggle",
+    "alias": "PAUSE"
   },
-  "4B010100040804817A0307": {
-    "uri": "spotify:track:5zkaOBbfVTaiyqkxar6m0l",
-    "alias": "Song 2"
+  "4B01010044000704EAB71DC82A81": {
+    "uri": "spotify:track:02sy7FAs8dkDNYsHp4Ul3f",
+    "alias": "SODA POP",
+    "mp3_file": "mp3/soda_pop.mp3",
+    "source_uri": "spotify:track:02sy7FAs8dkDNYsHp4Ul3f"
   },
-  "4B010100040804C6E5F606": {
+  "4B010100440007048FB11DC82A81": {
     "uri": "spotify:track:0MHStU0muAIEMbwdnebYu2",
-    "alias": "Takedown"
+    "alias": "TAKEDOWN",
+    "mp3_file": "mp3/takedown.mp3",
+    "source_uri": "spotify:track:0MHStU0muAIEMbwdnebYu2"
+  },
+  "4B01010044000704FAA41DC82A81": {
+    "uri": "spotify:track:5iupE5tK6WVGkK2wXN7DlC",
+    "alias": "IDOL",
+    "mp3_file": "mp3/idol.mp3",
+    "source_uri": "spotify:track:5iupE5tK6WVGkK2wXN7DlC"
+  },
+  "4B01010044000704959E1DC82A81": {
+    "uri": "spotify:album:2vghjN167vQauxiWDUqtJO",
+    "alias": "RIO 2 - Album"
+  },
+  "4B01010044000704DEAB1DC82A81": {
+    "uri": "spotify:track:0OSgfs6qkUEJZMWQmQREyz",
+    "alias": "VISCA BAR\u00c7A",
+    "mp3_file": "mp3/visca_bar_a.mp3",
+    "source_uri": "spotify:track:0OSgfs6qkUEJZMWQmQREyz"
+  },
+  "4B010100440007043F951DC82A81": {
+    "uri": "spotify:track:3RXUgPNIbUgFxsDWuBQEt6",
+    "alias": "HOW ITS DONE",
+    "mp3_file": "mp3/how_its_done.mp3",
+    "source_uri": "spotify:track:3RXUgPNIbUgFxsDWuBQEt6"
+  },
+  "4B01010044000704FB861DC82A81": {
+    "uri": "spotify:track:0Pg1BVCuuS0sKvKVvhqdn5",
+    "alias": "CUMPLEA\u00d1OS FATAL",
+    "mp3_file": "mp3/cumplea_os_fatal.mp3",
+    "source_uri": "spotify:track:0Pg1BVCuuS0sKvKVvhqdn5"
+  },
+  "4B01010044000704988E1DC82A81": {
+    "uri": "spotify:album:6CPodMnqYXqbfZ9Rw8CO1e",
+    "alias": "Empire of the Sun - Ask that god"
+  },
+  "4B0101004400070417D9B6780000": {
+    "uri": "spotify:track:5Cp75TUMrHF6c8xbhdligS",
+    "alias": "GOLDEN",
+    "mp3_file": "mp3/golden.mp3",
+    "source_uri": "spotify:track:5Cp75TUMrHF6c8xbhdligS"
+  },
+  "4B010100440007041A861CC82A81": {
+    "uri": "spotify:track:2Cdvbe2G4hZsnhNMKyGrie",
+    "alias": "I LOVE ROCK AN ROLL",
+    "mp3_file": "mp3/i_love_rock_an_roll.mp3",
+    "source_uri": "spotify:track:2Cdvbe2G4hZsnhNMKyGrie"
+  },
+  "4B01010044000704717F1CC82A81": {
+    "uri": "playlist_hercules",
+    "alias": "HERCULES67"
+  },
+  "4B01010044000704B97C1CC82A81": {
+    "uri": "http://opml.radiotime.com/Tune.ashx?id=s9753",
+    "alias": "RADIO3"
+  },
+  "4B010100440007047E7C1CC82A81": {
+    "uri": "spotify:track:4zpNfuWJA3K4d9TS4qnOIB",
+    "alias": "ESPRESSO MACCHIATO",
+    "mp3_file": "mp3/espresso_macchiato.mp3",
+    "source_uri": "spotify:track:4zpNfuWJA3K4d9TS4qnOIB"
+  },
+  "4B010100440007047F831CC82A81": {
+    "uri": "spotify:track:6i621tnLyJ0MS0J0QjQYhK",
+    "alias": "LA ABEJA MAYA",
+    "mp3_file": "mp3/la_abeja_maya.mp3",
+    "source_uri": "spotify:track:6i621tnLyJ0MS0J0QjQYhK"
+  },
+  "4B01010044000704FC7E1CC82A81": {
+    "uri": "spotify:track:3ZBIsmVt0v52crXAHvJRSR",
+    "alias": "GABBY GATO",
+    "mp3_file": "mp3/gabby_gato.mp3",
+    "source_uri": "spotify:track:3ZBIsmVt0v52crXAHvJRSR"
+  },
+  "4B01010044000704F7FC1CC82A81": {
+    "uri": "spotify:track:1tApKPSsMXfJf528fR1o93",
+    "alias": "SIX SEVEN",
+    "mp3_file": "mp3/six_seven.mp3",
+    "source_uri": "spotify:track:1tApKPSsMXfJf528fR1o93"
+  },
+  "4B010100440007046B761DC82A81": {
+    "uri": "spotify:album:5kB03HrxWnYPPB9BvwbYG1",
+    "alias": "NO BATIDAO"
+  },
+  "4B010100440007043C8D1CC82A81": {
+    "uri": "spotify:track:45WZ2N9hK3b7KhOECCUGkh",
+    "alias": "YMCA MINIONS",
+    "mp3_file": "mp3/ymca_minions.mp3",
+    "source_uri": "spotify:track:45WZ2N9hK3b7KhOECCUGkh"
+  },
+  "4B0101004400070415921CC82A81": {
+    "uri": "spotify:track:0MfjXpfyupGwQWfFtNJPw4",
+    "alias": "EL CAMINO DEL GUERRERO NACH",
+    "mp3_file": "mp3/el_camino_del_guerrero_nach.mp3",
+    "source_uri": "spotify:track:0MfjXpfyupGwQWfFtNJPw4"
+  },
+  "4B0101004400070433CC1CC82A81": {
+    "uri": "spotify:track:0gRIXIUFSqWqw5rXcmaf9o",
+    "alias": "OLIVIA TIETS",
+    "mp3_file": "mp3/olivia_tiets.mp3",
+    "source_uri": "spotify:track:0gRIXIUFSqWqw5rXcmaf9o"
+  },
+  "4B010100440007046BD41CC82A81": {
+    "uri": "spotify:track:3gxOPs7aBe5SJUcvYew6Ax",
+    "alias": "LA MARINA ESTA MORENA",
+    "mp3_file": "mp3/la_marina_esta_morena.mp3",
+    "source_uri": "spotify:track:3gxOPs7aBe5SJUcvYew6Ax"
+  },
+  "4B01010044000704EB711DC82A81": {
+    "uri": "spotify:track:0kosUz0jePvjiz4ctmR6wL",
+    "alias": "DAI DAI",
+    "mp3_file": "mp3/dai_dai.mp3",
+    "source_uri": "spotify:track:0kosUz0jePvjiz4ctmR6wL"
+  },
+  "4B01010044000704C7691DC82A81": {
+    "uri": "spotify:track:2pIyJjyKE4uRXLW42UEwkO",
+    "alias": "waka waka",
+    "mp3_file": "mp3/waka_waka.mp3",
+    "source_uri": "spotify:track:2pIyJjyKE4uRXLW42UEwkO"
+  },
+  "4B01010044000704BF631DC82A81": {
+    "uri": "spotify:album:1KeK6tSJkzcIiokFt6zQpZ",
+    "alias": "Random Album",
+    "mp3_file": "mp3/random.mp3",
+    "source_uri": "spotify:album:1KeK6tSJkzcIiokFt6zQpZ"
+  },
+  "4B0101004400070497521DC82A81": {
+    "uri": "music-library/INTERNAL/mp3/oye.mp3",
+    "alias": "OYE",
+    "mp3_file": "mp3/oye.mp3",
+    "source_uri": "spotify:track:2wlptOJ1g5fvLdu6ruKCKU"
+  },
+  "4B01010044000704A5581DC82A81": {
+    "uri": "music-library/INTERNAL/mp3/superestrella.mp3",
+    "alias": "SUPERESTRELLA",
+    "mp3_file": "mp3/superestrella.mp3",
+    "source_uri": "spotify:track:6hpuesKPNa3WhV48O7Fa47"
+  },
+  "4B01010044000704884B1DC82A81": {
+    "uri": "music-library/INTERNAL/mp3/mision_imposible_minions.mp3",
+    "alias": "MISION IMPOSIBLE MINIONS",
+    "mp3_file": "mp3/mision_imposible_minions.mp3",
+    "source_uri": "spotify:track:0wh2YLhRJbWW6yQZd0Hokq"
   }
 }

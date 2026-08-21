@@ -7,7 +7,7 @@ URI="spotify:track:6JIC3hbC28JZKZ8AlAqX8h"
 VALE_URI="music-library/INTERNAL/listo.mp3"
 
 def get_state(host:str=HOST):
-    result = subprocess.run(["curl", f"http://{host}:3000/api/v1/getState"], capture_output=True, text=True)
+    result = subprocess.run(["curl", f"http://{host}:3000/api/v1/getState"], capture_output=True, text=True, errors="replace")
     return result.stdout
 def play(host:str=HOST,uri:str=URI):
     # if uri contains "playlist_", use playplaylist endpoint instead
@@ -27,7 +27,7 @@ def play(host:str=HOST,uri:str=URI):
         result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"service":"webradio","type":"webradio","title":"Radio Stream","uri":"{uri}"}}'], capture_output=True, text=True)
         return result.stdout
     else:
-        result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"uri":"{uri}"}}'], capture_output=True, text=True)
+        result = subprocess.run(["curl", "-X", "POST", f"http://{host}:3000/api/v1/replaceAndPlay", "-H", "Content-Type: application/json", "-d", f'{{"uri":"{uri}"}}'], capture_output=True, text=True, errors="replace")
         return result.stdout
 
 def play_playlist(list_name:str,host:str=HOST):
